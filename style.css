@@ -1,0 +1,16 @@
+p{
+    color :rgb(128, 0, 4);
+}
+
+#main title{
+    color:blueviolet
+}
+
+.info{
+    color:darkslategray
+}
+ul{color:crimson}
+
+li{color:blue}
+
+li:hover{color:chartreuse}
