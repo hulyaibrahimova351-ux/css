@@ -6,11 +6,20 @@ p{
     color:blueviolet
 }
 
+#main title { 
+    font-size: 20px;
+}
 .info{
     color:darkslategray
 }
 ul{color:crimson}
 
-li{color:blue}
+li{
+    background-color: aqua;
+    color:blue}
+
+.info{
+    background-color:cadetblue
+}
 
 li:hover{color:chartreuse}
